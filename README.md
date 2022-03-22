@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amoiiir
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Information technology
+- 👀 I’m interested in Learning Phyton and Javascript in the future
+- 🌱 I’m currently learning HTML, CSS and bit of Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email
 
