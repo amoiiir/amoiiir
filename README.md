@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoiiir&label=Profile%20views&color=0e75b6&style=flat" alt="amoiiir" /> </p>
 
-I am a 21 years-old guy trying to learn and explore the world of Information Technology and Computer Science. I love giving my best whenever I can.
+I am a 21 years-old guy trying to learn and explore the world of Information Technology and Computer Science. I love giving my best whenever I can. Do check out my portfolio here: https://amoiiir.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
