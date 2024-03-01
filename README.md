@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoiiir&label=Profile%20views&color=0e75b6&style=flat" alt="amoiiir" /> </p>
 
-- 🌱 I’m currently learning **Tableau, Excel and Power BI**
-
-- 👨‍💻 All of my projects are available at [https://amoiiir.github.io/](https://amoiiir.github.io/)
-
-- 📫 How to reach me **amiriium381@gmail**
-
-- ⚡ Fun fact **I am hard working**
+I am a 21 years-old guy trying to learn and explore the world of Information Technology and Computer Science. I love giving my best whenever I can.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
